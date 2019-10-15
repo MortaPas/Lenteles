@@ -1,0 +1,44 @@
+table, tr, th, td {
+     border: 1px solid #000;
+     border-collapse: collapse;
+}
+ th, td {
+     width: 120px;
+     height: 50px;
+}
+ table {
+     margin: 0 auto;
+}
+ .gray {
+     background: gray;
+}
+ .tomato {
+     background: tomato;
+}
+ .orange {
+     background: orange;
+}
+ .blue {
+     background: blue;
+}
+ .MediumSeaGreen {
+     background:MediumSeaGreen;
+}
+ .Gray {
+     background: gray;
+}
+ .SlateBlue {
+     background: slateblue;
+}
+ .Violet {
+     background: violet;
+}
+ .Gray {
+     background: gray;
+}
+ .Lightgray {
+     background: lightgray;
+}
+ .pilka{
+     background: gray;
+}
